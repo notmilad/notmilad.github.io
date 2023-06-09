@@ -12,3 +12,9 @@ body {border: 11px solid black;}
 	body {color: white}
 
 
+    body {
+            background: rgb(124,12,12);
+            color: white;
+            font-family: Serif;
+            border: 8px solid black;
+        }
