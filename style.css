@@ -18,3 +18,10 @@ body {border: 11px solid black;}
             font-family: Serif;
             border: 8px solid black;
         }
+
+
+body {
+            background: rgb(22,23,23);
+            color: white;
+            font-family: Serif;
+        }
